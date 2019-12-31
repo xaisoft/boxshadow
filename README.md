@@ -19,4 +19,4 @@ boxShadow({
 
 ## Options
 
-* *shadow_type* - hard | soft (Defaults to soft)
+* *shadow_type* - hard_ | soft (Defaults to soft)
